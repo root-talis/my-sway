@@ -1,0 +1,5 @@
+# ~/.config/darkman/config.yaml
+lat: 45           # Latitude
+lng: 45           # Longitude
+usegeoclue: true  # Set to false to disable geoclue
+dbusserver: true  # Expose D-Bus API

@@ -1,0 +1,17 @@
+* {
+    bg0:    #1d1f21;
+    bg1:    #373b41;
+    bg2:    #c5c8c6;
+    fg1:    #c00;
+    fg2:    #c5c8c6;
+    fg3:    #969896;
+
+    accent:    #f0c674;
+}
+
+@import "template.rasi"
+
+element selected {
+    text-color: @bg1;
+}
+

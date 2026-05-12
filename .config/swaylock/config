@@ -1,0 +1,18 @@
+# Basic appearance
+#image=/path/to/wallpaper.png
+#scaling=fill
+color=000000
+
+# Behavior
+ignore-empty-password
+show-failed-attempts
+
+# Indicator colors (RRGGBB or RRGGBBAA)
+#ring-color=81a1c1
+#key-hl-color=ffffff
+#inside-color=2e3440
+
+ring-color=373b41
+key-hl-color=c5c8c6
+inside-color=1d1f21
+
